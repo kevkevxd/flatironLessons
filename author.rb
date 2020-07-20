@@ -1,6 +1,6 @@
 class Author
 
-    attr_accessor :name
+    attr_reader :name
     @@all = []
     def initialize(name)
         @name = name
@@ -11,7 +11,17 @@ class Author
         @@all
     end
     
-    #selects all books of this author and creates an array
+    def book_authors
+        BookAuthor.all.select {|ba| ba.book == self}
+    end
+
+    def books
+        self.book.authors.map {|ba| ba.book}
+    end
+
+end
+
+=begin     #selects all books of this author and creates an array
     def books 
         Book.all.select{|b| b.author == self }
     end
@@ -30,8 +40,8 @@ class Author
     ## also, may I have feedback on if using (&:) is acceptable? 
         
     def self.most_words #author instance who has written the most words
-        Book.all.max { |a, b| b.author.total_words <=> a.author.total_words }
+        self.all.max { |a, b| b.author.total_words <=> a.author.total_words }
     end
-    ##iterating through each book instance to compare max total word count
+    ##iterating through each book instance to compare max total word count =end
 end
 
