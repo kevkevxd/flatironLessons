@@ -9,19 +9,4 @@ class Teacher < ActiveRecord::Base
             false
         end
     end
-
-    # def grades
-    #     Grade.all.select do |g|
-    #         g.teacher_id==self.id
-    #     end
-    # end 
-    
-    # def students
-    #     Student.all.select do |t|
-    #         self.grade.select do |g|
-    #             g.student_id == t.id
-    #         end
-    #     end
-    # end
-
 end

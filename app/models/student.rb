@@ -1,6 +1,6 @@
 class Student < ActiveRecord::Base
     has_many :grade_level
-    belongs_to :teachers, through: :grade_level
+    has_many :teachers, through: :grade_level
 
     def full_name
         "#{self.first_name}+ " " + #{self.last_name}"
@@ -12,18 +12,3 @@ class Student < ActiveRecord::Base
 end  
     
  
-
-    # def grade 
-    #     Grade.all.select do |g|
-    #         g.student_id==self.id
-    #     end
-    # end
-
-    # def teachers
-    #     Teacher.all.select do |t|
-    #         self.grade.select do |g|
-    #             g.teacher_id == t.id
-    #         end
-    #     end
-    # end
-# end
