@@ -1,5 +1,21 @@
 let addToy = false;
 
+let formData = {
+  name: "",
+  image: "",
+};
+
+let configObj = {
+  method: "POST",
+  headers: {
+    "Content-Type": "application/json",
+    Accept: "application/json",
+  },
+  body: JSON.stringify(formData),
+};
+
+fetch("http://localhost:3000/toys", configObj);
+
 function fetchToys() {
   return fetch("http://localhost:3000/toys")
     .then(function (response) {
@@ -21,12 +37,20 @@ function fetchToys() {
       });
     });
 }
-
 fetchToys();
+
+let taskForm = document.querySelector(".add-toy-form");
+taskForm.addEventListener("submit", function (e) {
+  e.preventDefault();
+  let toyName = taskForm.name.value;
+  let image = taskForm.image.value;
+});
+
 document.addEventListener("DOMContentLoaded", () => {
   const addBtn = document.querySelector("#new-toy-btn");
   const toyFormContainer = document.querySelector(".container");
-  addBtn.addEventListener("click", () => {
+  addBtn.addEventListener("click", (e) => {
+    // console.log(e.target);
     // hide & seek with the form
     addToy = !addToy;
     if (addToy) {
@@ -35,8 +59,4 @@ document.addEventListener("DOMContentLoaded", () => {
       toyFormContainer.style.display = "none";
     }
   });
-  // fetch toy objects from api
-  // take them out of the array object
-  // add them to a new div class called "card" under toy-collection div
-  //
 });
