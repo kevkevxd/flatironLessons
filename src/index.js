@@ -23,16 +23,16 @@ document.addEventListener("DOMContentLoaded", () => {
     fetch(toyUrl + dataId, options)
       .then((response) => response.json())
       .then((data) => {
-        const dataId = data.id;
-        const likes = data.likes;
+        const DataId = data.id;
+        const newLikes = data.likes;
 
         document.querySelector(
-          `p[data-id="${dataId}"].toy-likes`
-        ).innerText = `${likes} Likes`;
+          `p[data-id="${DataId}"].toy-likes`
+        ).innerText = `${newLikes} Likes`;
 
         document
           .querySelector(`button[data-id="${dataId}"].like-btn`)
-          .setAttribute("data-likes", likes);
+          .setAttribute("data-likes", newLikes);
       });
   };
 
