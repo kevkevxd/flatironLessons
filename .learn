@@ -46,6 +46,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 ---
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -434,3 +435,13 @@ type:
   - TODO
 resources: 1
 >>>>>>> 9beb88aa8e500cf9889420021d53f61011cdf0f1
+=======
+tags:
+  - readme
+  - looping
+  - while
+  - until
+languages:
+  - ruby
+resources: 0
+>>>>>>> efd716b879f1e3cb0dbd410a51796900f72bf3b7
