@@ -22,6 +22,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 57851bf0dc7ea16009e8569d75f49962480fde9b
 # See https://help.github.com/ignore-files/ for more about ignoring files.
@@ -417,3 +418,26 @@ node_modules
 .DS_Store
 node_modules
 >>>>>>> 247e74a8f2e4e2d4acdbd1ff16cad25ad448d887
+=======
+.DS_Store
+logs
+*.log
+npm-debug.log*
+pids
+*.pid
+*.seed
+lib-cov
+build/Release
+node_modules
+jspm_packages
+.npm
+.node_repl_history
+.results.json
+/.bundle
+/db/*.sqlite3
+/db/*.sqlite3-journal
+/log/*
+!/log/.keep
+/tmp
+    
+>>>>>>> 7191e2ac86bdb7b5e703ee17bdcadc4387941f44
