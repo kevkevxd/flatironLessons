@@ -58,6 +58,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 ---
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -525,3 +526,12 @@ languages:
 >>>>>>> ed8d73d4fda74979bf4565a9473fe038940bd1ec
 =======
 >>>>>>> 4055bd796ba960c65b5b8488811f98e25e8dba7d
+=======
+tags:
+  - hashes
+  - micro
+  - introduction
+languages:
+  - ruby
+resources: 1
+>>>>>>> 32bd4c253e5773449be70addb17d4e16e6525cba
