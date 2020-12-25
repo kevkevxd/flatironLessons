@@ -72,6 +72,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 ---
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -632,3 +633,16 @@ resources: 2
 =======
 resources: 0
 >>>>>>> e5b2e696b5c1f8d364f0356449367557aa47a604
+=======
+tags:
+  - dynamic routes
+  - controllers
+  - rspec
+  - capybara
+  - mvc
+languages:
+  - ruby
+type: 
+  - lab
+resources: 2
+>>>>>>> a35938c95d39546cc0fed77ed63089d03bfb6e17
