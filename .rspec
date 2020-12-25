@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 --color
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -57,3 +58,8 @@
 --require spec_helper
 --format d
 >>>>>>> e93d5e5f709ce372f4a24ff3920237d599d9c075
+=======
+--color
+--format documentation
+--require spec_helper
+>>>>>>> ef56f5aba3476153219db3f7939581a14ae2b2df

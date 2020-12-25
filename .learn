@@ -34,6 +34,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 ---
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -303,3 +304,12 @@ resources:
 >>>>>>> 22572a0f5bc8f68d9663a91e7b2c9ef5334d534c
 =======
 >>>>>>> 9a891f3042c58019e9c63d90d675482b3aa0524b
+=======
+tags:
+  - tag_1
+  - tag_2
+languages:
+  - language_1
+  - language_1
+resources: 0
+>>>>>>> ef56f5aba3476153219db3f7939581a14ae2b2df
