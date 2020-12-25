@@ -45,6 +45,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 ---
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -152,11 +153,14 @@ resources:
   - 0
 >>>>>>> 248b4b8f44e4bc90da026b7ba823ea2952a13b0f
 =======
+=======
+>>>>>>> 9beb88aa8e500cf9889420021d53f61011cdf0f1
 tags:
   - hashes
   - iteration
 languages:
   - ruby
+<<<<<<< HEAD
 >>>>>>> 248cfb81a9bee7d17611d303f936947af57e06bb
 =======
 tags:
@@ -425,3 +429,8 @@ resources:
 languages:
   - javascript
 >>>>>>> e5789464b56d0a262a1a27494e554a9240bfa1ea
+=======
+type:
+  - TODO
+resources: 1
+>>>>>>> 9beb88aa8e500cf9889420021d53f61011cdf0f1
