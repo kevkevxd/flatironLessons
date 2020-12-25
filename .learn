@@ -112,6 +112,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 ---
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -1057,3 +1058,14 @@ languages:
   - Ruby
 resources: 0
 >>>>>>> 8342b3688dfcf092b6cba0041a75fe08ba846495
+=======
+tags:
+  - oop
+  - belongs to
+  - has many
+  - has many through
+  - collaborating objects
+languages:
+  - ruby
+resources: 0
+>>>>>>> 990adebcfac907ac956da1a4e1428b22163cf0c5
