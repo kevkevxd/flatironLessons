@@ -1,9 +1,12 @@
 #!/usr/bin/env ruby
+<<<<<<< HEAD:Rails-Practice-Code-Challenge-Travelatr-nyc01-seng-ft-071320/bin/rails
 begin
   load File.expand_path('../spring', __FILE__)
 rescue LoadError => e
   raise unless e.message.include?('spring')
 end
+=======
+>>>>>>> 25dfd77b0797546d93fcf897c98464a481f16423:bin/rails
 APP_PATH = File.expand_path('../config/application', __dir__)
 require_relative '../config/boot'
 require 'rails/commands'

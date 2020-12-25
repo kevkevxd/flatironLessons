@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 --color
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -47,3 +48,6 @@
 --require spec_helper
 --format d
 >>>>>>> aa4bffcee21e536d3555685e9a371d6441430171
+=======
+--format d
+>>>>>>> 25dfd77b0797546d93fcf897c98464a481f16423
