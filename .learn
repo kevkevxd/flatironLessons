@@ -26,6 +26,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 ---
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -242,3 +243,16 @@ languages:
 >>>>>>> 1bbf84b82a27774bcee25730fd15088a1d7fa2b7
 =======
 >>>>>>> 9a136a7d849fa9becaed6a37eea2a0878197b9fb
+=======
+tags:
+  - arrays
+  - push
+  - pop
+  - shift
+  - lab
+  - data structures
+languages:
+  - javascript
+resources:
+  - 0
+>>>>>>> 5ee970a87020257098458ca4f7298cb273b4992f
