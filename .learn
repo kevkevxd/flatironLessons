@@ -5,6 +5,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 ---
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -86,3 +87,12 @@ languages:
   - ruby
 resources: 0
 >>>>>>> 751721687665cfabec764d58126b1b326d285d4e
+=======
+tags:
+  - orm
+  - active record
+languages:
+  - Ruby
+resources:
+  - 0
+>>>>>>> 030c175433a0415f6e1c98b340f7f27a89371593
