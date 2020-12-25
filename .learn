@@ -12,6 +12,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 ---
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -150,3 +151,12 @@ languages:
 resources:
   - 2
 >>>>>>> 5670c93cd61860a0e1d7370b7642ba2400251e24
+=======
+tags:
+  - rails
+  - associations
+  - lab
+languages:
+  - ruby
+resources: 0
+>>>>>>> aa4bffcee21e536d3555685e9a371d6441430171
