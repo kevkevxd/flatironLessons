@@ -7,6 +7,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 ---
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -104,3 +105,12 @@ resources:
 >>>>>>> 030c175433a0415f6e1c98b340f7f27a89371593
 =======
 >>>>>>> 1d7f4fbcd5690ab06632b6f8e48b07743d530e86
+=======
+tags:
+  - generators
+languages:
+  - ruby
+  - rails
+resources: 
+  - 0
+>>>>>>> 248b4b8f44e4bc90da026b7ba823ea2952a13b0f
