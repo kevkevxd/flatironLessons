@@ -20,6 +20,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 57851bf0dc7ea16009e8569d75f49962480fde9b
 # See https://help.github.com/ignore-files/ for more about ignoring files.
@@ -407,3 +408,7 @@ yarn.lock
 >>>>>>> 25dfd77b0797546d93fcf897c98464a481f16423
 =======
 >>>>>>> e93d5e5f709ce372f4a24ff3920237d599d9c075
+=======
+node_modules
+.results.json
+>>>>>>> 31b69549fcaa5183619c5520fe8698a4bf3ef757
