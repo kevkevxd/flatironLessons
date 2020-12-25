@@ -131,6 +131,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 ---
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -1231,3 +1232,12 @@ languages:
   - ruby
 resources: 0
 >>>>>>> 99bffde8dc9e65cda9dfad6ae9b05b59b7559f73
+=======
+tags:
+  - methods
+  - puts
+  - strings
+languages:
+  - ruby
+resources: 0
+>>>>>>> 06895332aac02863778c537813da38710dfbad10
