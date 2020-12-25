@@ -13,6 +13,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 ---
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -160,3 +161,10 @@ languages:
   - ruby
 resources: 0
 >>>>>>> aa4bffcee21e536d3555685e9a371d6441430171
+=======
+tags:
+  - tag1
+languages:
+  - language1
+resources: 0
+>>>>>>> e93d5e5f709ce372f4a24ff3920237d599d9c075

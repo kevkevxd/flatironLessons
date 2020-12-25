@@ -19,6 +19,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 57851bf0dc7ea16009e8569d75f49962480fde9b
 # See https://help.github.com/ignore-files/ for more about ignoring files.
@@ -254,6 +255,8 @@ jspm_packages
 .npm
 
 =======
+=======
+>>>>>>> e93d5e5f709ce372f4a24ff3920237d599d9c075
 # Created by https://www.gitignore.io/api/node
 
 .DS_Store
@@ -282,13 +285,17 @@ jspm_packages
 # Optional npm cache directory
 .npm
 
+<<<<<<< HEAD
 >>>>>>> 25dfd77b0797546d93fcf897c98464a481f16423
+=======
+>>>>>>> e93d5e5f709ce372f4a24ff3920237d599d9c075
 # Optional REPL history
 .node_repl_history
 
 # Learn-specific .results.json
 .results.json
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -339,6 +346,8 @@ yarn.lock
 >>>>>>> aa4bffcee21e536d3555685e9a371d6441430171
 =======
 >>>>>>> 25dfd77b0797546d93fcf897c98464a481f16423
+=======
+>>>>>>> e93d5e5f709ce372f4a24ff3920237d599d9c075
 # Ignore bundler config.
 /.bundle
 
@@ -350,6 +359,7 @@ yarn.lock
 /log/*
 !/log/.keep
 /tmp
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -395,3 +405,5 @@ yarn.lock
 >>>>>>> aa4bffcee21e536d3555685e9a371d6441430171
 =======
 >>>>>>> 25dfd77b0797546d93fcf897c98464a481f16423
+=======
+>>>>>>> e93d5e5f709ce372f4a24ff3920237d599d9c075
