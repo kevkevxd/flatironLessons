@@ -43,6 +43,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 ---
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -408,3 +409,14 @@ tags:
 languages:
 - javascript
 >>>>>>> 93c6f41108ba8223d94502e622e04e0ae6b18383
+=======
+tags:
+  - OO
+  - object interactions
+  - DOM manipulation
+languages:
+  - JavaScript
+level: intermediate
+resources:
+  - 0
+>>>>>>> 7aa53ad1292427ba397c8231f4cd8f006ce0170c
