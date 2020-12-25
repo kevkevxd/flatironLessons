@@ -103,6 +103,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 ---
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -962,3 +963,14 @@ resources: 0
 =======
 resources: 0
 >>>>>>> 0807aa59ef07a19745035c80da4ba5cefbd8ca42
+=======
+tags:
+  - introduction
+  - error messages
+  - lecture
+languages:
+  - ruby
+type:
+  - video
+  - lab
+>>>>>>> c3a8d1484b561b0c18743d47220c3303f9332c32
