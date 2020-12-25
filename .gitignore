@@ -21,6 +21,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 57851bf0dc7ea16009e8569d75f49962480fde9b
 # See https://help.github.com/ignore-files/ for more about ignoring files.
@@ -412,3 +413,7 @@ yarn.lock
 node_modules
 .results.json
 >>>>>>> 31b69549fcaa5183619c5520fe8698a4bf3ef757
+=======
+.DS_Store
+node_modules
+>>>>>>> 247e74a8f2e4e2d4acdbd1ff16cad25ad448d887
