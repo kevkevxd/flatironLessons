@@ -4,6 +4,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 57851bf0dc7ea16009e8569d75f49962480fde9b
 # See https://help.github.com/ignore-files/ for more about ignoring files.
@@ -82,6 +83,11 @@ yarn-error.log*
 
 .DS_Store
 >>>>>>> 4cfdf0bab8842569ec1394bf50ece1590e7bdbf8
+=======
+# Created by https://www.gitignore.io/api/node
+
+.DS_Store
+>>>>>>> 5ac2ef1c7597a9b9817de7cb87ce31265c35a633
 
 ### Node ###
 # Logs
@@ -98,6 +104,7 @@ pids
 lib-cov
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Coverage directory used by tools like istanbul
 coverage
 
@@ -112,6 +119,8 @@ coverage
 
 =======
 >>>>>>> 4cfdf0bab8842569ec1394bf50ece1590e7bdbf8
+=======
+>>>>>>> 5ac2ef1c7597a9b9817de7cb87ce31265c35a633
 # Compiled binary addons (http://nodejs.org/api/addons.html)
 build/Release
 
@@ -129,6 +138,7 @@ jspm_packages
 .results.json
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Ignore Yarn lock
 yarn.lock
 
@@ -136,6 +146,8 @@ yarn.lock
 .DS_Store
 >>>>>>> 8f77588591a8e616f489f0eb7a105aed0cb31905
 =======
+=======
+>>>>>>> 5ac2ef1c7597a9b9817de7cb87ce31265c35a633
 # Ignore bundler config.
 /.bundle
 
@@ -147,4 +159,7 @@ yarn.lock
 /log/*
 !/log/.keep
 /tmp
+<<<<<<< HEAD
 >>>>>>> 4cfdf0bab8842569ec1394bf50ece1590e7bdbf8
+=======
+>>>>>>> 5ac2ef1c7597a9b9817de7cb87ce31265c35a633
