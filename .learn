@@ -87,6 +87,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 ---
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -813,3 +814,13 @@ languages:
 resources:
   - 0
 >>>>>>> 91acbadcd92ff6c387cd309e73f3019c58d7b285
+=======
+tags:
+  - javascript
+  - react
+  - forms
+languages:
+  - javascript
+resources:
+  - 1
+>>>>>>> 11e4ec4271ec32f6541afd8e733bd134e311f23d

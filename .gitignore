@@ -85,6 +85,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 57851bf0dc7ea16009e8569d75f49962480fde9b
 # See https://help.github.com/ignore-files/ for more about ignoring files.
@@ -340,11 +341,16 @@ db/*.sqlite3
 # Created by https://www.gitignore.io/api/node
 
 >>>>>>> 91acbadcd92ff6c387cd309e73f3019c58d7b285
+=======
+# Created by https://www.gitignore.io/api/node
+
+>>>>>>> 11e4ec4271ec32f6541afd8e733bd134e311f23d
 ### Node ###
 # Logs
 logs
 *.log
 npm-debug.log*
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -385,6 +391,8 @@ npm-debug.log*
 >>>>>>> 55060063c325af47daf1e53a88894afa6a19235a
 =======
 >>>>>>> 91acbadcd92ff6c387cd309e73f3019c58d7b285
+=======
+>>>>>>> 11e4ec4271ec32f6541afd8e733bd134e311f23d
 
 # Runtime data
 pids
@@ -421,10 +429,13 @@ lib-cov
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 55060063c325af47daf1e53a88894afa6a19235a
 =======
 >>>>>>> 91acbadcd92ff6c387cd309e73f3019c58d7b285
+=======
+>>>>>>> 11e4ec4271ec32f6541afd8e733bd134e311f23d
 # Coverage directory used by tools like istanbul
 coverage
 
@@ -437,6 +448,7 @@ coverage
 # node-waf configuration
 .lock-wscript
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 =======
@@ -493,6 +505,8 @@ coverage
 >>>>>>> 55060063c325af47daf1e53a88894afa6a19235a
 =======
 >>>>>>> 91acbadcd92ff6c387cd309e73f3019c58d7b285
+=======
+>>>>>>> 11e4ec4271ec32f6541afd8e733bd134e311f23d
 # Compiled binary addons (http://nodejs.org/api/addons.html)
 build/Release
 
@@ -503,6 +517,7 @@ jspm_packages
 # Optional npm cache directory
 .npm
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -1157,11 +1172,14 @@ node_modules
 >>>>>>> e8ab5b7cbfcad4c9847130d422af792fe1358c95
 =======
 >>>>>>> 782fa1cfdbe18991170722fa85a0a491d9ca607e
+=======
+>>>>>>> 11e4ec4271ec32f6541afd8e733bd134e311f23d
 # Optional REPL history
 .node_repl_history
 
 # Learn-specific .results.json
 .results.json
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -1414,14 +1432,20 @@ log/*
 # Learn-specific
 .results.json
 bundle.js
+=======
+>>>>>>> 11e4ec4271ec32f6541afd8e733bd134e311f23d
 
 # Yarn Lockfile 
 yarn.lock 
 
 # DS_Store 
 <<<<<<< HEAD
+<<<<<<< HEAD
 .DS_Store
 >>>>>>> 55060063c325af47daf1e53a88894afa6a19235a
 =======
 .DS_Store
 >>>>>>> 91acbadcd92ff6c387cd309e73f3019c58d7b285
+=======
+.DS_Store
+>>>>>>> 11e4ec4271ec32f6541afd8e733bd134e311f23d
