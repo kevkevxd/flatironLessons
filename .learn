@@ -35,6 +35,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 ---
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -313,3 +314,11 @@ languages:
   - language_1
 resources: 0
 >>>>>>> ef56f5aba3476153219db3f7939581a14ae2b2df
+=======
+tags:
+  - gets
+  - cli
+languages:
+  - ruby
+resources: 0
+>>>>>>> 5e53a0b28ce43419dc189dc8891a7fb95580009b
