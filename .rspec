@@ -121,9 +121,13 @@
 --require pry
 --format documentation
 --require spec_helper
+<<<<<<< HEAD
 >>>>>>> 32bd4c253e5773449be70addb17d4e16e6525cba
 =======
 --color
 --require spec_helper
 --fail-fast
 >>>>>>> fc8a46e49886de98ade169995aedd1364f57c7fe
+=======
+--fail-fast
+>>>>>>> 5363e07245530ec7b9a7316d1a008aa9e2e788c1
