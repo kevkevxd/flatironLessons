@@ -50,6 +50,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 ---
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -469,3 +470,13 @@ languages:
   - javascript
 resources: 0
 >>>>>>> 5e0e8df1d52e9a693d51d5c81d0ded2992c9161e
+=======
+tags:
+  - oop
+  - attr_accessor
+  - attr_reader
+  - class constants
+languages:
+  - ruby
+resources: 0
+>>>>>>> 97aa2240862a20bc2c7150b48a355b2f9b7748ae
