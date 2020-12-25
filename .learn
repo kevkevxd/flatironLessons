@@ -253,6 +253,7 @@ languages:
 languages:
   - javascript
 tags:
+<<<<<<< HEAD
   - document
 >>>>>>> d3db735751877766029b3b93c1dff87f45150b29
 =======
@@ -262,6 +263,13 @@ tags:
 - events
 languages:
 - JavaScript
+=======
+- code-along
+- rails
+- api
+languages:
+- ruby
+>>>>>>> 4f2a68a3d015ced0f9282389007fe1c4f19dd6da
     
 >>>>>>> 0e52a3247cae89f5631eb3f666839d8badbc27fb
 =======
