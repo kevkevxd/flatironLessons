@@ -29,6 +29,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 57851bf0dc7ea16009e8569d75f49962480fde9b
 # See https://help.github.com/ignore-files/ for more about ignoring files.
@@ -474,3 +475,7 @@ node_modules
 .results.json
 node_modules
 >>>>>>> b01406865a0b3f09ca8808ca77adfa8ddc2ef3fd
+=======
+node_modules
+.results.json
+>>>>>>> 7a211b44832e1dd64c402d979fe3816f6a243241
