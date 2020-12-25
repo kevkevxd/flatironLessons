@@ -6,6 +6,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 ---
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -82,10 +83,15 @@ resources:
 =======
 tags:
   - active record
+=======
+tags:
+  - activerecord
+>>>>>>> 1d7f4fbcd5690ab06632b6f8e48b07743d530e86
   - migrations
 languages:
   - ruby
 resources: 0
+<<<<<<< HEAD
 >>>>>>> 751721687665cfabec764d58126b1b326d285d4e
 =======
 tags:
@@ -96,3 +102,5 @@ languages:
 resources:
   - 0
 >>>>>>> 030c175433a0415f6e1c98b340f7f27a89371593
+=======
+>>>>>>> 1d7f4fbcd5690ab06632b6f8e48b07743d530e86
