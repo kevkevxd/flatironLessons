@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 ---
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -37,3 +38,11 @@ languages:
   - ruby
 resources: 2
 >>>>>>> 4cfdf0bab8842569ec1394bf50ece1590e7bdbf8
+=======
+languages:
+  - ruby
+tags:
+  - ORM
+  - ActiveRecord
+  - associations
+>>>>>>> 7fba11c855c697b0561de02ad1092233298f38ca
