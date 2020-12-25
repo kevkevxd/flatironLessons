@@ -1,4 +1,3 @@
-AR-Environment-Skeleton-aa
 Flatipotle-Debugging-Lab-nyc01-seng-ft-071320
 Rails-Practice-Code-Challenge-Travelatr-nyc01-seng-ft-071320
 Rails-RubberDucking-nyc01-seng-ft-071320
