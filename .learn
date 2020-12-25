@@ -1,6 +1,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 ---
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -46,3 +47,12 @@ tags:
   - ActiveRecord
   - associations
 >>>>>>> 7fba11c855c697b0561de02ad1092233298f38ca
+=======
+tags:
+  - activerecord
+  - todo
+  - introductory
+languages:
+  - ruby
+resources: 3
+>>>>>>> 427f6cf81022776aca3eb58ecc6a262015b04576
