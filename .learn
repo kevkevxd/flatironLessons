@@ -137,6 +137,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 ---
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -1285,3 +1286,13 @@ resources: 0
 >>>>>>> 3613d2071c7f03db87d0ad2343c307457785928d
 =======
 >>>>>>> 9365b80875a4f3d55c684a0fb1f8d548e3a3e0c6
+=======
+tags:
+  - tictactoe
+  - loops
+  - while
+  - cli
+languages:
+  - ruby
+resources: 0
+>>>>>>> cd25161ff5f3de3d4639b2d38a4a138cd1125034
