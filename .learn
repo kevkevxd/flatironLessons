@@ -100,6 +100,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 ---
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -551,11 +552,14 @@ languages:
 =======
 =======
 >>>>>>> c2d2c4ce9608efdf5dd9ac2fe3c6a6b720914f7d
+=======
+>>>>>>> f332be636c69aa05463e76a1545a571669a38e60
 tags:
 - readme
 languages:
 - undefined
     
+<<<<<<< HEAD
 <<<<<<< HEAD
 >>>>>>> cd9c42e37423099e5af0966e345d2c515e7436d8
 =======
@@ -939,3 +943,5 @@ languages:
   - ruby
 resources: 1
 >>>>>>> 56d2d80467086fe469e30c69480307f1b419e64b
+=======
+>>>>>>> f332be636c69aa05463e76a1545a571669a38e60
