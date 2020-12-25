@@ -65,6 +65,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 57851bf0dc7ea16009e8569d75f49962480fde9b
 # See https://help.github.com/ignore-files/ for more about ignoring files.
@@ -737,6 +738,8 @@ node_modules
 >>>>>>> 87467223480591048fee72d2bfe712a1000c74ac
 =======
 >>>>>>> cfe7a7752a1a2cc97458f5ac6e234de925f9f585
+=======
+>>>>>>> 1387869208e994283c8d981515fa817d792541e6
 .DS_Store
 logs
 *.log
@@ -758,6 +761,7 @@ jspm_packages
 !/log/.keep
 /tmp
     
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -958,3 +962,5 @@ yarn-debug.log*
 >>>>>>> 87467223480591048fee72d2bfe712a1000c74ac
 =======
 >>>>>>> cfe7a7752a1a2cc97458f5ac6e234de925f9f585
+=======
+>>>>>>> 1387869208e994283c8d981515fa817d792541e6
