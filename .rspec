@@ -7,6 +7,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 --require spec_helper
 =======
 >>>>>>> 7fba11c855c697b0561de02ad1092233298f38ca
@@ -37,3 +38,7 @@
 =======
 --require spec_helper
 >>>>>>> 0d0bcc9e9d22e6d225bd9969a1141df89fa6e0c8
+=======
+--require spec_helper
+--format d
+>>>>>>> 5670c93cd61860a0e1d7370b7642ba2400251e24

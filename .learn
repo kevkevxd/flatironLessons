@@ -11,6 +11,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 ---
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -139,3 +140,13 @@ resources: 0
 languages:
 - javascript
 >>>>>>> efb228876b73316f270e7eda734f083e95d89be3
+=======
+tags:
+  - cookie
+  - session
+  - http
+languages:
+  - Ruby
+resources:
+  - 2
+>>>>>>> 5670c93cd61860a0e1d7370b7642ba2400251e24
