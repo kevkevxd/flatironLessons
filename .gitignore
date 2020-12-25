@@ -86,6 +86,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 57851bf0dc7ea16009e8569d75f49962480fde9b
 # See https://help.github.com/ignore-files/ for more about ignoring files.
@@ -1449,3 +1450,12 @@ yarn.lock
 =======
 .DS_Store
 >>>>>>> 11e4ec4271ec32f6541afd8e733bd134e311f23d
+=======
+node_modules
+npm-debug.log
+lib
+umd
+dist
+
+.idea
+>>>>>>> 56144dfc6e8e342728de91d3bab13836c0d6beca
