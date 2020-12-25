@@ -13,6 +13,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 --color
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -137,3 +138,6 @@
 --format documentation
 --fail-fast
 >>>>>>> e8ab5b7cbfcad4c9847130d422af792fe1358c95
+=======
+--format d
+>>>>>>> 2429e6b8f5546ed262a886b301bfc69d7cd8054f

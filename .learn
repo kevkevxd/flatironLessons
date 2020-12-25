@@ -70,6 +70,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 ---
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -611,3 +612,16 @@ resources:
 ---
 languages: []
 >>>>>>> 43e0d7ee4ae737e16e5422ea58d625ae59421b5c
+=======
+tags:
+  - ActiveRecord
+  - create action
+  - models
+  - params hash
+  - redirects
+languages:
+  - ruby
+type: 
+  - readme
+resources: 2
+>>>>>>> 2429e6b8f5546ed262a886b301bfc69d7cd8054f
