@@ -18,6 +18,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 ---
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -192,3 +193,9 @@ languages:
 >>>>>>> 7191e2ac86bdb7b5e703ee17bdcadc4387941f44
 =======
 >>>>>>> f8c05abd0aeba91ec047c0d01797cffc4fc5a86f
+=======
+languages:
+  - javascript
+tags:
+  - document
+>>>>>>> d3db735751877766029b3b93c1dff87f45150b29
