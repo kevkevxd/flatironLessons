@@ -49,6 +49,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 ---
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -458,3 +459,13 @@ resources: 0
 languages:
 - ruby
 >>>>>>> 7e218a75949084986cc6d66627a11c125a8bc737
+=======
+tags:
+  - javascript
+  - npm
+  - package.json
+  - lab
+languages:
+  - javascript
+resources: 0
+>>>>>>> 5e0e8df1d52e9a693d51d5c81d0ded2992c9161e
