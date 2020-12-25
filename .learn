@@ -119,6 +119,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 ---
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -1114,3 +1115,12 @@ languages:
   - ruby
 resources: 1
 >>>>>>> 60905c0039338fdee5d0de94cd803452d5901a7c
+=======
+tags:
+  - variable assignment
+  - variables
+languages:
+  - ruby
+resources: 2
+
+>>>>>>> c73ceaea0ac7cec7757f53f10142eb8fcb27f36b
