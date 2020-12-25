@@ -28,6 +28,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 ---
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -262,3 +263,13 @@ resources:
 >>>>>>> 5ee970a87020257098458ca4f7298cb273b4992f
 =======
 >>>>>>> 8eeb16ca09261e90ed9bd0666fa27d0bcf3a08af
+=======
+tags:
+  - variables
+  - let
+  - const
+languages:
+  - javascript
+resources:
+  - 2
+>>>>>>> a6f6af37a1b6fea477f4b5934e401330f9009934
