@@ -93,6 +93,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 ---
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -866,3 +867,12 @@ resources: 0
 >>>>>>> 7b5f4573c67b8e006e6d353acd0bd102c158ab07
 =======
 >>>>>>> a315c9f122e459250f4bdac477034758b8076157
+=======
+tags:
+  - readme
+  - debugging
+  - errors
+languages:
+  - ruby
+resources: 0
+>>>>>>> eb8144eac5d9791b1ebff5cde65b11ccefac1626
