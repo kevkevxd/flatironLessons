@@ -128,6 +128,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 ---
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -1203,3 +1204,11 @@ languages:
   - ruby
 resources: 0
 >>>>>>> 4a99c2671afa04d497f52cac835d21a7b469bc4f
+=======
+tags:
+  - puts
+  - tictactoe
+languages:
+  - ruby
+  
+>>>>>>> c34627b52d2f9ea1c754065c39eb7b1ff0d6c2b6
