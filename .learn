@@ -122,6 +122,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 ---
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -1148,3 +1149,14 @@ languages:
 resources:
   - http://guides.rubyonrails.org/action_controller_overview.html#filters
 >>>>>>> c49ed6ce939447fc65d2a41390b07551c759197a
+=======
+tags:
+  - sql
+  - introductory
+  - select
+  - insert
+  - create
+languages:
+  - sql
+resources: 1
+>>>>>>> f2b9f0fc2d79f435c5d937284ccce265476c457b
