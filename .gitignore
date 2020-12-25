@@ -1,6 +1,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 57851bf0dc7ea16009e8569d75f49962480fde9b
 # See https://help.github.com/ignore-files/ for more about ignoring files.
@@ -69,3 +70,6 @@ yarn-error.log*
 >>>>>>> 97504540fd6cad53f38d68c3fd5ec198ffb57f05
 =======
 >>>>>>> 57851bf0dc7ea16009e8569d75f49962480fde9b
+=======
+.DS_Store
+>>>>>>> bf2e0d6753d5f424eda34a36023463877b2330c2
