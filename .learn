@@ -74,6 +74,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 ---
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -654,3 +655,17 @@ resources: 2
 type:
   - readme
 >>>>>>> e8dc3ac7d0b9419202a5d9a1e460c466af9024e4
+=======
+tags:
+  - ActiveRecord
+  - update action
+  - models
+  - params hash
+  - edit
+  - forms
+languages:
+  - ruby
+type: 
+  - readme
+resources: 0
+>>>>>>> a3104a2c94304a4c517a3463a23e0693a723018f
