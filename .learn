@@ -64,6 +64,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 ---
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -569,3 +570,12 @@ resources: 0
 >>>>>>> 2fecc4b0923de99fa3f8509eadf5d0c8da076a71
 =======
 >>>>>>> 80548e44f7b671cc45c8892d1242a7dc1dc2f822
+=======
+tags:
+  - nesting
+  - arrays
+  - hashes
+languages:
+  - ruby
+resources: 2
+>>>>>>> e8ab5b7cbfcad4c9847130d422af792fe1358c95
