@@ -87,8 +87,11 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 57851bf0dc7ea16009e8569d75f49962480fde9b
+=======
+>>>>>>> e5ef253fbd18154a7d0814d4c23f7c7c5d670753
 # See https://help.github.com/ignore-files/ for more about ignoring files.
 
 # dependencies
@@ -110,6 +113,7 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+<<<<<<< HEAD
 <<<<<<< HEAD
 =======
 =======
@@ -1459,3 +1463,5 @@ dist
 
 .idea
 >>>>>>> 56144dfc6e8e342728de91d3bab13836c0d6beca
+=======
+>>>>>>> e5ef253fbd18154a7d0814d4c23f7c7c5d670753
