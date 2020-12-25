@@ -129,6 +129,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 ---
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -1212,3 +1213,11 @@ languages:
   - ruby
   
 >>>>>>> c34627b52d2f9ea1c754065c39eb7b1ff0d6c2b6
+=======
+tags:
+  - iteration
+  - modulo
+languages:
+  - ruby
+resources: 0
+>>>>>>> 30d99fc095d20e4be692b04465102e7edaf0a13c
