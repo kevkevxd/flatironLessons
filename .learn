@@ -44,6 +44,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 ---
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -420,3 +421,7 @@ level: intermediate
 resources:
   - 0
 >>>>>>> 7aa53ad1292427ba397c8231f4cd8f006ce0170c
+=======
+languages:
+  - javascript
+>>>>>>> e5789464b56d0a262a1a27494e554a9240bfa1ea
