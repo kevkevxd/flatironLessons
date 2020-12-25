@@ -136,6 +136,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 ---
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -1240,10 +1241,16 @@ resources: 0
 tags:
   - variables
   - arrays
+=======
+tags:
+  - method composition
+  - recursion
+>>>>>>> 9365b80875a4f3d55c684a0fb1f8d548e3a3e0c6
   - tictactoe
 languages:
   - ruby
 resources: 0
+<<<<<<< HEAD
 >>>>>>> 99bffde8dc9e65cda9dfad6ae9b05b59b7559f73
 =======
 tags:
@@ -1276,3 +1283,5 @@ resources: 0
 =======
 resources: 0
 >>>>>>> 3613d2071c7f03db87d0ad2343c307457785928d
+=======
+>>>>>>> 9365b80875a4f3d55c684a0fb1f8d548e3a3e0c6
