@@ -1,5 +1,8 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 57851bf0dc7ea16009e8569d75f49962480fde9b
 # See https://help.github.com/ignore-files/ for more about ignoring files.
 
 # dependencies
@@ -21,6 +24,7 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+<<<<<<< HEAD
 =======
 =======
 >>>>>>> 97504540fd6cad53f38d68c3fd5ec198ffb57f05
@@ -63,3 +67,5 @@ yarn-error.log*
 # Ignore master key for decrypting credentials and more.
 /config/master.key
 >>>>>>> 97504540fd6cad53f38d68c3fd5ec198ffb57f05
+=======
+>>>>>>> 57851bf0dc7ea16009e8569d75f49962480fde9b
