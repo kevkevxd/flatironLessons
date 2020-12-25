@@ -54,6 +54,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 --color
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -358,3 +359,9 @@
 --format documentation
 --require spec_helper
 >>>>>>> af52810ec77506a014e3370ed5290ae264e9fb31
+=======
+--color
+--format documentation
+--require spec_helper
+--fail-fast
+>>>>>>> 78396a92c7cc6452a20cf6d80494008d7e427e37
