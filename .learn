@@ -82,6 +82,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 ---
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -757,3 +758,14 @@ resources: 2
 =======
 resources: 2
 >>>>>>> e14580ec96f73466b8191ef29212a0adefd52889
+=======
+tags:
+  - static
+  - routing
+  - pages
+languages:
+  - ruby
+type: 
+  - readme
+resources: 0
+>>>>>>> a05d0e75bd242319caf241608617a362fb441bcf
