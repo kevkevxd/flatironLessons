@@ -106,6 +106,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 ---
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -1004,3 +1005,13 @@ languages:
   - ruby
 resources: 2
 >>>>>>> 8a045124d1641bd17bf4824af11ca68ad36d74ae
+=======
+tags: 	
+  - object orientation	
+  - attr_accessors	
+  - instance mtehods	
+languages: 	
+  - Ruby	
+resources:	
+  - 0
+>>>>>>> 457c392fc91d86338fa23c804966a0cd08f645dd
