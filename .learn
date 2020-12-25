@@ -130,6 +130,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 ---
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -1221,3 +1222,12 @@ languages:
   - ruby
 resources: 0
 >>>>>>> 30d99fc095d20e4be692b04465102e7edaf0a13c
+=======
+tags:
+  - variables
+  - arrays
+  - tictactoe
+languages:
+  - ruby
+resources: 0
+>>>>>>> 99bffde8dc9e65cda9dfad6ae9b05b59b7559f73
