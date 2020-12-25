@@ -84,6 +84,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 57851bf0dc7ea16009e8569d75f49962480fde9b
 # See https://help.github.com/ignore-files/ for more about ignoring files.
@@ -335,11 +336,16 @@ db/*.sqlite3
 # Created by https://www.gitignore.io/api/node
 
 >>>>>>> 55060063c325af47daf1e53a88894afa6a19235a
+=======
+# Created by https://www.gitignore.io/api/node
+
+>>>>>>> 91acbadcd92ff6c387cd309e73f3019c58d7b285
 ### Node ###
 # Logs
 logs
 *.log
 npm-debug.log*
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -377,6 +383,8 @@ npm-debug.log*
 >>>>>>> d47b06be51e53d6dc458dc9711d35786abb8768b
 =======
 >>>>>>> 55060063c325af47daf1e53a88894afa6a19235a
+=======
+>>>>>>> 91acbadcd92ff6c387cd309e73f3019c58d7b285
 
 # Runtime data
 pids
@@ -412,8 +420,11 @@ lib-cov
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 55060063c325af47daf1e53a88894afa6a19235a
+=======
+>>>>>>> 91acbadcd92ff6c387cd309e73f3019c58d7b285
 # Coverage directory used by tools like istanbul
 coverage
 
@@ -426,6 +437,7 @@ coverage
 # node-waf configuration
 .lock-wscript
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 =======
 >>>>>>> 4cfdf0bab8842569ec1394bf50ece1590e7bdbf8
@@ -479,6 +491,8 @@ coverage
 >>>>>>> d47b06be51e53d6dc458dc9711d35786abb8768b
 =======
 >>>>>>> 55060063c325af47daf1e53a88894afa6a19235a
+=======
+>>>>>>> 91acbadcd92ff6c387cd309e73f3019c58d7b285
 # Compiled binary addons (http://nodejs.org/api/addons.html)
 build/Release
 
@@ -489,6 +503,7 @@ jspm_packages
 # Optional npm cache directory
 .npm
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -1391,6 +1406,8 @@ bower.json
 log/*
 >>>>>>> b2d164049473a444128f283be6ace680c165a4ea
 =======
+=======
+>>>>>>> 91acbadcd92ff6c387cd309e73f3019c58d7b285
 # Optional REPL history
 .node_repl_history
 
@@ -1402,5 +1419,9 @@ bundle.js
 yarn.lock 
 
 # DS_Store 
+<<<<<<< HEAD
 .DS_Store
 >>>>>>> 55060063c325af47daf1e53a88894afa6a19235a
+=======
+.DS_Store
+>>>>>>> 91acbadcd92ff6c387cd309e73f3019c58d7b285
