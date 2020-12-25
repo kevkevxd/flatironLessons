@@ -77,6 +77,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 ---
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -678,10 +679,18 @@ tags:
   - form_tag
   - forms
   - ActiveView
+=======
+tags:
+  - rails forms
+  - form_tag
+  - CSRF
+  - POST forms
+>>>>>>> a7ba879e3226d407628a11760134521f46133a4f
 languages:
   - ruby
 type: 
   - lab
+<<<<<<< HEAD
 resources: 2
 >>>>>>> 9cdcf0543bbaae847f83e4b64a5f1efc022c2c0d
 =======
@@ -694,3 +703,6 @@ languages:
 resources:
   - 0
 >>>>>>> 18e8561af7c7d2a4b8916ecc324571d5fb68c78c
+=======
+resources: 2
+>>>>>>> a7ba879e3226d407628a11760134521f46133a4f
