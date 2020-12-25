@@ -38,6 +38,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 ---
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -351,3 +352,15 @@ languages:
   - ruby
 resources: 0
 >>>>>>> abd77fc59440a235be08d90a01a09a848aa91d82
+=======
+tags:
+  - rspec
+  - tdd
+  - intro
+  - methods
+  - arguments
+  - return values
+resources: 0
+languages:
+  - ruby
+>>>>>>> 9fc75578b8ac883fe1fe8d4e5f2fe92f84525633

@@ -40,6 +40,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 57851bf0dc7ea16009e8569d75f49962480fde9b
 # See https://help.github.com/ignore-files/ for more about ignoring files.
@@ -602,3 +603,17 @@ yarn.lock
 >>>>>>> 22572a0f5bc8f68d9663a91e7b2c9ef5334d534c
 =======
 >>>>>>> 5e53a0b28ce43419dc189dc8891a7fb95580009b
+=======
+.DS_Store
+.idea
+.editorconfig
+
+log
+node_modules
+out
+tmp
+
+*.iml
+*.log
+*.swp
+>>>>>>> 9fc75578b8ac883fe1fe8d4e5f2fe92f84525633
