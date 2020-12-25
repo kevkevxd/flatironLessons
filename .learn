@@ -40,6 +40,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 ---
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -379,3 +380,11 @@ resources:
 ---
 languages: []
 >>>>>>> 4a3db066287e17bf61d4e43c8c839db00aae05d3
+=======
+tags:
+- code-along
+- rails
+- api
+languages:
+- ruby
+>>>>>>> e125db936f4637ae16a1f72c154ab666bf7d46ec
