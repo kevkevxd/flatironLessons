@@ -188,6 +188,7 @@ resources: 0
 >>>>>>> aa4bffcee21e536d3555685e9a371d6441430171
 =======
 tags:
+<<<<<<< HEAD
   - tag1
 languages:
   - language1
@@ -364,3 +365,12 @@ resources: 0
 languages:
   - ruby
 >>>>>>> 9fc75578b8ac883fe1fe8d4e5f2fe92f84525633
+=======
+  - lab
+  - data structures
+  - objects
+languages:
+  - javascript
+resources:
+  - 1
+>>>>>>> 62f768a5741cc459f7e38fa5b874bc42e574ee88
