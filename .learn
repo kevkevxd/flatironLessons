@@ -36,6 +36,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 ---
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -322,3 +323,21 @@ languages:
   - ruby
 resources: 0
 >>>>>>> 5e53a0b28ce43419dc189dc8891a7fb95580009b
+=======
+tags:
+  - basics
+  - puts
+  - hello world
+  - lecture
+  - lab
+  - video
+languages:
+  - ruby
+resources: 0
+type:
+  - video
+  - lab
+  - lecture
+feature_tours:
+  ask_a_question: true
+>>>>>>> e97334aec726c73781527a4138d6c71590ae6fe7
