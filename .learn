@@ -105,6 +105,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 ---
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -992,3 +993,14 @@ lesson:
   - defining, calling, scope, arguments
 
 >>>>>>> 409c2fcc05ec0a27af156b6f5934a6647acbc5cd
+=======
+tags:
+  - oop
+  - tutorial
+  - basics
+  - attr_accessor
+  - attr_reader
+languages:
+  - ruby
+resources: 2
+>>>>>>> 8a045124d1641bd17bf4824af11ca68ad36d74ae
