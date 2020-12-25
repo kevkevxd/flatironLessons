@@ -8,6 +8,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 ---
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -114,3 +115,10 @@ languages:
 resources: 
   - 0
 >>>>>>> 248b4b8f44e4bc90da026b7ba823ea2952a13b0f
+=======
+tags:
+  - hashes
+  - iteration
+languages:
+  - ruby
+>>>>>>> 248cfb81a9bee7d17611d303f936947af57e06bb
