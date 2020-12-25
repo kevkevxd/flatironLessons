@@ -124,6 +124,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 ---
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -1169,3 +1170,10 @@ resources:
 languages: 
   - SQL
 >>>>>>> 74192dd161cf6ec81630608dbb78dfe48777d969
+=======
+tags:
+  - sql
+languages:
+  - sql
+resources: 0
+>>>>>>> 158d9ffce29afa36897be59c7618e37787d073e2
