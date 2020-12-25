@@ -91,6 +91,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 57851bf0dc7ea16009e8569d75f49962480fde9b
 =======
@@ -102,13 +103,18 @@
 # dependencies
 /node_modules
 =======
+=======
+>>>>>>> ca2be24a1b7b6c3708b37bd1b0f022074c8cd03a
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
 
 # dependencies
 /node_modules
 /.pnp
 .pnp.js
+<<<<<<< HEAD
 >>>>>>> 2824e3a4c48f0f52434549ea8eaede658732f8f7
+=======
+>>>>>>> ca2be24a1b7b6c3708b37bd1b0f022074c8cd03a
 
 # testing
 /coverage
@@ -123,13 +129,17 @@
 .env.test.local
 .env.production.local
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 src/config.js
 >>>>>>> 2824e3a4c48f0f52434549ea8eaede658732f8f7
+=======
+>>>>>>> ca2be24a1b7b6c3708b37bd1b0f022074c8cd03a
 
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -1503,3 +1513,5 @@ dist
 >>>>>>> 2824e3a4c48f0f52434549ea8eaede658732f8f7
 =======
 >>>>>>> ff39e47a9b00247e8643bf0bee0e0ea4f0b2e2ee
+=======
+>>>>>>> ca2be24a1b7b6c3708b37bd1b0f022074c8cd03a
