@@ -104,6 +104,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 ---
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -974,3 +975,20 @@ type:
   - video
   - lab
 >>>>>>> c3a8d1484b561b0c18743d47220c3303f9332c32
+=======
+tags:
+  - readme
+  - methods
+languages:
+  - ruby
+resources: 0
+track:
+  - web development
+topc: 
+  - ruby
+unit: 
+  - methods and variables
+lesson: 
+  - defining, calling, scope, arguments
+
+>>>>>>> 409c2fcc05ec0a27af156b6f5934a6647acbc5cd
