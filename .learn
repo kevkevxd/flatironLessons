@@ -37,6 +37,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 ---
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -341,3 +342,12 @@ type:
 feature_tours:
   ask_a_question: true
 >>>>>>> e97334aec726c73781527a4138d6c71590ae6fe7
+=======
+tags:
+  - interpolation
+  - strings
+  - arrays
+languages:
+  - ruby
+resources: 0
+>>>>>>> abd77fc59440a235be08d90a01a09a848aa91d82
