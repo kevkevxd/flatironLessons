@@ -159,7 +159,6 @@ sql-queries
 sql-select-and-update
 sql-writing-database-commands-to-a-file
 strong-params-basics-nyc01-seng-ft-071320
-test.txt
 tic-tac-toe-rb-ruby-intro-000
 ttt-1-welcome-rb-ruby-intro-000
 ttt-10-current-player-ruby-apply-000

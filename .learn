@@ -55,6 +55,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 ---
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -505,3 +506,10 @@ languages:
 >>>>>>> cd9c42e37423099e5af0966e345d2c515e7436d8
 =======
 >>>>>>> c2d2c4ce9608efdf5dd9ac2fe3c6a6b720914f7d
+=======
+tags:
+- lab
+languages:
+- Ruby
+    
+>>>>>>> 09ece38beb20f74998833429e89e2dfcaf1ba925
