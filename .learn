@@ -79,6 +79,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 ---
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -717,3 +718,16 @@ type:
   - readme
 resources: 0
 >>>>>>> d47b06be51e53d6dc458dc9711d35786abb8768b
+=======
+tags:
+  - rails
+  - hello world
+  - new app
+  - basic app
+  - introduction
+languages:
+  - ruby
+type: 
+  - lab
+resources: 2
+>>>>>>> e6d07f4f4d7248fd8dc5f0c1eb85ede0d5ba3d58
