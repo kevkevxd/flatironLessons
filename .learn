@@ -101,6 +101,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 ---
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -945,3 +946,12 @@ resources: 1
 >>>>>>> 56d2d80467086fe469e30c69480307f1b419e64b
 =======
 >>>>>>> f332be636c69aa05463e76a1545a571669a38e60
+=======
+tags:
+  - collect
+  - map
+  - strings
+languages:
+  - ruby
+resources: 0
+>>>>>>> 9bbb48d845fb83e0f5a149f4744ab16271a700bc
