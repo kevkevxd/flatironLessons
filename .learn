@@ -117,6 +117,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 ---
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -1098,3 +1099,7 @@ languages:
 languages:
 - ruby
 >>>>>>> 2e026a2c140052588ec09f184b12c9c28e019a13
+=======
+languages:
+  - ruby
+>>>>>>> b6ac4744654353a24f8e3b8310468c2186c41723
