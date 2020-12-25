@@ -120,6 +120,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 ---
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -1124,3 +1125,14 @@ languages:
 resources: 2
 
 >>>>>>> c73ceaea0ac7cec7757f53f10142eb8fcb27f36b
+=======
+languages:
+  - ruby
+tags:
+  - methods
+  - arguments
+  - variables
+  - default arguments
+resources: 1
+
+>>>>>>> 56bc4b3023f2734abc5de7bdc1c31ca98de8b860
