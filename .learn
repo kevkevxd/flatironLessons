@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ---
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -17,3 +18,11 @@ languages: []
 =======
 languages: []
 >>>>>>> bf2e0d6753d5f424eda34a36023463877b2330c2
+=======
+tags:
+  - bundler
+  - introduction
+languages:
+  - react
+resources: 2
+>>>>>>> 8f77588591a8e616f489f0eb7a105aed0cb31905
