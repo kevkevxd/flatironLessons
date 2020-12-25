@@ -2,6 +2,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 ---
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -56,3 +57,14 @@ languages:
   - ruby
 resources: 3
 >>>>>>> 427f6cf81022776aca3eb58ecc6a262015b04576
+=======
+tags:
+  - activerecord
+  - orm
+  - oop
+  - introduction
+  - crud
+languages:
+  - ruby
+resources: []
+>>>>>>> 44f05f3550d2fd0e05746556150ecf2471f6869f
