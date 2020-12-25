@@ -61,6 +61,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 ---
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -547,3 +548,12 @@ resources: 1
 >>>>>>> 4643467c47d983a43c40f543f85d7980daac9867
 =======
 >>>>>>> eb4d7935aa26a0a305958562c7d65bc5bb2bb2c3
+=======
+tags:
+  - nested hashes
+  - hashes
+  - code along
+languages:
+  - ruby
+resources: 0
+>>>>>>> fc8a46e49886de98ade169995aedd1364f57c7fe
