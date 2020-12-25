@@ -96,6 +96,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 ---
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -892,3 +893,14 @@ languages:
   - ruby
 resources: 0
 >>>>>>> 33dfd35b7a7c9e1e98d34bc21771f850b02270e4
+=======
+tags:
+  - rspec
+  - intro
+  - tdd
+  - conditional statements
+  - flow control
+languages:
+  - ruby
+resources: 0
+>>>>>>> 752616ed40c77114d5ccf0e60ee998a1810af5ba
