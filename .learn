@@ -102,6 +102,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 ---
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -396,11 +397,14 @@ languages:
 resources: 0
 >>>>>>> ef56f5aba3476153219db3f7939581a14ae2b2df
 =======
+=======
+>>>>>>> 0807aa59ef07a19745035c80da4ba5cefbd8ca42
 tags:
   - gets
   - cli
 languages:
   - ruby
+<<<<<<< HEAD
 resources: 0
 >>>>>>> 5e53a0b28ce43419dc189dc8891a7fb95580009b
 =======
@@ -955,3 +959,6 @@ languages:
   - ruby
 resources: 0
 >>>>>>> 9bbb48d845fb83e0f5a149f4744ab16271a700bc
+=======
+resources: 0
+>>>>>>> 0807aa59ef07a19745035c80da4ba5cefbd8ca42
