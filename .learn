@@ -97,6 +97,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 ---
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -904,3 +905,13 @@ languages:
   - ruby
 resources: 0
 >>>>>>> 752616ed40c77114d5ccf0e60ee998a1810af5ba
+=======
+tags:
+  - enumerable
+  - iteration
+  - map
+  - collection
+  - each_with_index
+languages:
+  - ruby
+>>>>>>> acb8fdcdb1cc9538be60db8a390b82d848905496
