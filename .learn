@@ -53,6 +53,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 ---
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -491,3 +492,10 @@ languages:
 languages:
   - ruby
 >>>>>>> 79825a8932f6c83c1b6f3d626ef9d32dfdcf324a
+=======
+tags:
+- readme
+languages:
+- undefined
+    
+>>>>>>> cd9c42e37423099e5af0966e345d2c515e7436d8
