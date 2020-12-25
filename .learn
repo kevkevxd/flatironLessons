@@ -107,6 +107,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 ---
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -1015,3 +1016,11 @@ languages:
 resources:	
   - 0
 >>>>>>> 457c392fc91d86338fa23c804966a0cd08f645dd
+=======
+tags:
+  - classes
+  - instances
+languages:
+  - ruby
+resources: 0
+>>>>>>> dcaa3f73cd3b6d874117275666e8112b10b50b14
