@@ -17,6 +17,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 --color
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -153,3 +154,6 @@
 =======
 --format d
 >>>>>>> a7ba879e3226d407628a11760134521f46133a4f
+=======
+--require spec_helper
+>>>>>>> d47b06be51e53d6dc458dc9711d35786abb8768b
